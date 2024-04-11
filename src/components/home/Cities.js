@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 import { v4 as uuid } from "uuid";
 import { getDataCity } from "../../Redux/Home/home";
 import egypt from "../image/resize.jpg";
-import Nav from "./Nav";
 
 const CITYS = () => {
   const dispatch = useDispatch();
