@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# GLOBAL COVID-19 STATISTICS
+# Egypt Weather App
 
 > Description the project.
 > Egypt's city weather app is a simple project that displays weather details about each city in Egypt. Built with react-redux.
@@ -16,8 +16,8 @@
 
 # In order to obtain a local copy of this repository run:
 
-- git [(https://github.com/kidde60/react-weather-app)] .
-- Weather app
+- `git clone https://github.com/kidde60/react-weather-app.`
+- cd ./Weather app
 
 ### Prerequisites
 
